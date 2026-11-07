@@ -1,0 +1,20 @@
+{
+  "accuracy": 1.0,
+  "total_samples": 1350,
+  "train_samples": 1080,
+  "test_samples": 270,
+  "classes": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "A",
+    "C",
+    "GOOD",
+    "L",
+    "NAMASTE"
+  ],
+  "num_classes": 10,
+  "train_duration_seconds": 0.24683403968811035
+}

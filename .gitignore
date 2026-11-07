@@ -1,0 +1,31 @@
+# Python Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Build & Packaging Artifacts
+build/
+dist/
+*.spec
+*.egg-info/
+
+# IDE & OS Metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Large raw video dumps (keep CSV dataset & models committed)
+*.mp4
+*.avi
+*.mkv
+scratch/

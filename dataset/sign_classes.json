@@ -1,0 +1,130 @@
+{
+  "classes": [
+    {
+      "id": 0,
+      "name": "1",
+      "type": "number",
+      "hands": 1,
+      "description": "Index finger extended upwards, others closed"
+    },
+    {
+      "id": 1,
+      "name": "2",
+      "type": "number",
+      "hands": 1,
+      "description": "Index and middle fingers extended upwards (V-shape), others closed"
+    },
+    {
+      "id": 2,
+      "name": "3",
+      "type": "number",
+      "hands": 1,
+      "description": "Thumb, index, and middle fingers extended, others closed"
+    },
+    {
+      "id": 3,
+      "name": "4",
+      "type": "number",
+      "hands": 1,
+      "description": "Four fingers (index, middle, ring, pinky) extended upwards, thumb tucked"
+    },
+    {
+      "id": 4,
+      "name": "5",
+      "type": "number",
+      "hands": 1,
+      "description": "All five fingers open and spread"
+    },
+    {
+      "id": 5,
+      "name": "A",
+      "type": "alphabet",
+      "hands": 2,
+      "description": "ISL 'A': Left index finger points upright; Right index fingertip touches Left thumb"
+    },
+    {
+      "id": 6,
+      "name": "B",
+      "type": "alphabet",
+      "hands": 2,
+      "description": "ISL 'B': Both hands form circles (thumb + index touching) placed together like spectacles"
+    },
+    {
+      "id": 7,
+      "name": "C",
+      "type": "alphabet",
+      "hands": 1,
+      "description": "ISL 'C': Single hand curved in a C-shape"
+    },
+    {
+      "id": 8,
+      "name": "D",
+      "type": "alphabet",
+      "hands": 2,
+      "description": "ISL 'D': Left index pointing upright; Right index and thumb form curved semi-circle touching Left index"
+    },
+    {
+      "id": 9,
+      "name": "L",
+      "type": "alphabet",
+      "hands": 1,
+      "description": "ISL 'L': Single hand with thumb and index finger forming an L-shape at 90 degrees"
+    },
+    {
+      "id": 10,
+      "name": "O",
+      "type": "alphabet",
+      "hands": 1,
+      "description": "ISL 'O': Single hand with fingertips touching thumb to form an O-shape"
+    },
+    {
+      "id": 11,
+      "name": "V",
+      "type": "alphabet",
+      "hands": 1,
+      "description": "ISL 'V': Single hand with index and middle fingers open in a victory V-shape"
+    },
+    {
+      "id": 12,
+      "name": "HELLO",
+      "type": "word",
+      "hands": 1,
+      "description": "Open hand near forehead/temple waving outwards in salute/greeting"
+    },
+    {
+      "id": 13,
+      "name": "NAMASTE",
+      "type": "word",
+      "hands": 2,
+      "description": "Both open palms pressed together vertically in front of chest"
+    },
+    {
+      "id": 14,
+      "name": "YES",
+      "type": "word",
+      "hands": 1,
+      "description": "Fist with thumb facing outwards, nodding up and down"
+    },
+    {
+      "id": 15,
+      "name": "NO",
+      "type": "word",
+      "hands": 1,
+      "description": "Index and middle fingers snapping down against thumb repeatedly"
+    },
+    {
+      "id": 16,
+      "name": "THANK YOU",
+      "type": "word",
+      "hands": 1,
+      "description": "Flat open hand moves from chin/lips forward toward the viewer"
+    },
+    {
+      "id": 17,
+      "name": "GOOD",
+      "type": "word",
+      "hands": 1,
+      "description": "Thumbs up gesture held firmly"
+    }
+  ]
+}
